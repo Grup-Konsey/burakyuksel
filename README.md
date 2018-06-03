@@ -6,8 +6,8 @@ Bu projenin oluşturulmasında örnek bir template kullanılmıştır. Bu templa
 Template temelde 3 parçadan oluşmakta: Banner,Content,Footer<br>
 Banner: <br>
 Template’de yer lan banner bir Navbar ‘dan oluşmakta. Banner oluşturulurken boostrap kütüphaneleri, javascriptler ve Google yazı fontları kütüphaneleri kullanılmıştır. <br>
-<link rel="stylesheet" href="css/bootstrap.css"><br>
-<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet"><br>
+link rel="stylesheet" href="css/bootstrap.css"><br>
+link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet"><br>
 <script src="js/jquery.js"></script><br>
 <script src="js/bootstrap.min.js"></script><br>
 <script src="js/main.js"></script><br>
