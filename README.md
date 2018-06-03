@@ -1,7 +1,7 @@
 # burakyuksel
 burakyuksel
 
-Bu proje Web Terminolojisinin önemini konu alan ve bununla beraber bazı web terminoloji kavramlarının açıklanmasını sağlayan bir yapıda oluşturulmuştur. Web terminolojisinin önemi index.html sayfasında açıklanmış ve terminoloji kavramları hakkındaki bilgiler html klasörünün içerisindeki sayfalarda mevcuttur. Sitenin hakları Burak Yüksel’ e aittir.
+Bu proje Web Terminolojisinin önemini konu alan ve bununla beraber bazı web terminoloji kavramlarının açıklanmasını sağlayan bir yapıda oluşturulmuştur. Web terminolojisinin önemi index.html sayfasında açıklanmış ve terminoloji kavramları hakkındaki bilgiler html klasörünün içerisindeki sayfalarda mevcuttur. Sitenin hakları Burak Yüksel’ e aittir.<br>
 Bu projenin oluşturulmasında örnek bir template kullanılmıştır. Bu templatenin içeriğini açıklamak gerekirse:
 Template temelde 3 parçadan oluşmakta: Banner,Content,Footer
 Banner: 
